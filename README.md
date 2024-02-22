@@ -8,8 +8,8 @@ O'Reilly Winter 2024 Kata
 
 ## Team
 
-- Ryan Hertzog | Solutions Architect
-- Megin Mathew | Solutions Architect
+- Ryan Hertzog | Solution Architect
+- Megin Mathew | Solution Architect
 - Pete Pallo  | Solution Architect
 - Brandon Moriarty | Solution Architect
 - Mike Wolford  | Solution Architect Manager
