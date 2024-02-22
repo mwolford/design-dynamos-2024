@@ -41,8 +41,6 @@ O'Reilly Winter 2024 Kata
     1. [Infrastructure: MongoDB](adr/10-infrastructure-mongodb.md)
     1. [Infrastructure: Event Choreography App](adr/11-infrastructure-event-choreography-app.md)
     1. [System Monitoring](adr/12-system-monitoring.md)
-1. Deployment
-1. Cost Analysis
 
 ## Extras
 
